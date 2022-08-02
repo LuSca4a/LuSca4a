@@ -1,0 +1,3 @@
+- 👋 Opa, eu sou o @LuSc4a!
+- 👀 Eu estou interessado em aprender a Programar; 
+- 🌱 Agora eu estou aprendendo sobre HTML/CSS.
